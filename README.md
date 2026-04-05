@@ -51,7 +51,7 @@ task-api/
     taskService.test.js      # Unit tests
     tasks.routes.test.js     # Integration tests
   BUG_REPORT.md              # Full bug report with fixes and notes
-  package.json
+  package.json file
   jest.config.js
 ```
 "# TASK-API" 
